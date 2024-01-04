@@ -18,11 +18,13 @@ Nun erscheint auf der rechten Seite im Editor ein Stift. Klickt man dort drauf e
 Wenn fertig, dann klickt man auf *Commit changes*. Da kann man noch eine kleine Beschreibung angeben was man gemacht hat, ist jedoch kein muss.
 Ein weiterer Klick und man kann seine Änderung noch mals begutachten. Stimmt alles soweit dann schließt man den Prozess mit *create pull request* ab. 
 
-Der Projekt-Leiter bekommt nun eine Nachricht das eine Änderung ansteht. Die Änderung wird begutachtet und in das Projekt integriert. 
+Der Projektleiter bekommt nun eine Nachricht das eine Änderung ansteht. Die Änderung wird begutachtet und in das Projekt integriert. 
 
 Das wars. 
 
 ## Fertig
 
-Kompliziert? Ja, vielleicht bei den ersten paar male. Es wird zumal immer einfacher und man erkennt die Vorteile :-) Ein Vorteil davon ist, dass wirklich alles, nachvollziebar dokumentiert ist. 
+Kompliziert? Ja, vielleicht bei den ersten paar male. Es wird zumal immer einfacher und man erkennt die Vorteile. Ein Vorteil davon ist zum Beispiel die Tatsache, dass wirklich alles nachvollziebar dokumentiert ist. 
+
+Wer sich mehr in das Thema einlesen möchte: https://www.tutonaut.de/aenderungen-in-github-projekten-einreichen/ 
 

@@ -9,7 +9,7 @@ Wenn der Verdacht im Raum steht, selbst an ME/CFS betroffen zu sein aber noch In
 ### Start: 
 Der Hausarzt sollte die erste Anlaufstelle sein, wenn der Verdacht auf ME/CFS im Raum steht.
 
-Bitte im Ordner **Hausarzt**  mit dem Dokument 01_ beginnen. 
+Bitte im Ordner **Hausarzt**  mit dem Dokument [Hausarzt/01_Vor_dem_ersten_HA_Termin.md]() beginnen. 
 
 ---
 # Danksagung

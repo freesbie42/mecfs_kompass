@@ -4,7 +4,7 @@
 Das Projekt **MECFS Kompass** soll eine übersichtliche, aktuelle, einfache und vorallem energiesparende Handreichung für die Patient-Arzt-Kommunikation sein.
 
 ### Verdacht auf ME/CFS?
-Wenn der Verdacht im Raum steht, selbst an ME/CFS betroffen zu sein aber noch Informationen fehlen: [Was ist MECFS]() 
+Wenn der Verdacht im Raum steht, selbst an ME/CFS betroffen zu sein aber noch Informationen fehlen: [Was ist MECFS](https://github.com/freesbie42/mecfs_kompass/blob/main/Was_ist_MECFS.md) 
 
 ### Start: 
 Der Hausarzt sollte die erste Anlaufstelle sein, wenn der Verdacht auf ME/CFS im Raum steht.
